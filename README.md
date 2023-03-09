@@ -2,7 +2,7 @@
 Project streaming twiiter menggunakan kafka dan docker, streaming tweet manchester united, hasil output berupa data frame (dengan pandas)
 
 ## Goal 
-Melakukan streaming data twitter untuk melihat tweet tentang manchester united, yang selanjutnya akan dilakukan proses sentiment analysis (coming soon)
+Melakukan streaming data twitter untuk melihat dan mengumpulkan tweet tentang manchester united dalam format csv, yang selanjutnya akan dilakukan proses sentiment analysis (coming soon)
 
 ## output 
 
